@@ -1,12 +1,12 @@
-[![Build Status](https://travis-ci.org/JacobAMason/Software-Testing-and-QA.svg?branch=master)](https://travis-ci.org/JacobAMason/Software-Testing-and-QA) [![Coverage Status](https://coveralls.io/repos/github/JacobAMason/Software-Testing-and-QA/badge.svg?branch=master)](https://coveralls.io/github/JacobAMason/Software-Testing-and-QA?branch=master)
+[![Build Status](https://travis-ci.org/JacobAMason/CI-demo.svg?branch=master)](https://travis-ci.org/JacobAMason/CI-demo) [![Coverage Status](https://coveralls.io/repos/github/JacobAMason/CI-demo/badge.svg?branch=master)](https://coveralls.io/github/JacobAMason/CI-demo?branch=master)
 # Software Testing and Quality Assurance
 
 Attn Dr. Williams: The requested Assignment pdf can be found in the Assignment1 folder.
 
 ## Running Assignment 1
 ```
-git clone https://github.com/JacobAMason/Software-Testing-and-QA.git
-cd Software-Testing-and-QA
+git clone https://github.com/JacobAMason/CI-demo.git
+cd CI-demo
 pip install -e .
 python Assignment1/command_line_insterface.py
 ```
